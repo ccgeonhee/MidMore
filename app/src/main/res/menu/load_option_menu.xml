@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/current_gps"
+        android:title="현재 위치 지정하기"
+        />
+    <item
+        android:id="@+id/load_favorite_place"
+        android:title="즐겨찾는 장소 불러오기"
+        />
+    <item
+        android:id="@+id/get_address_site"
+        android:title="도로명 주소 사이트"
+        />
+
+</menu>

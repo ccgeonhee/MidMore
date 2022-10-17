@@ -1,0 +1,5 @@
+<!--앱 이름-->
+<resources>
+    <string name="app_name">미드모여!</string>
+    <string name="title_activity_maps">미드모여!</string>
+</resources>
